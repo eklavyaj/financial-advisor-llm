@@ -1,0 +1,6 @@
+[submodule "rag"]
+	path = rag
+	url = git@github.com:eklavyaj/rag.git
+[submodule "fin-rlhf"]
+	path = fin-rlhf
+	url = git@github.com:danyoungday/fin-rlhf.git
