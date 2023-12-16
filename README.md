@@ -16,6 +16,15 @@ Rohan Poddar       (rp3119)
 Hernan Figueroa    (hf2314)
 Grant Kim          (gk2636)
 ```
+#### Accenture Mentors
+```
+Satish Banka
+Subha Seshagiri
+```
+#### Instructor CA
+```
+Peter Chao
+```
 
 #### Abstract
 
